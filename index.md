@@ -1,6 +1,6 @@
 ## My PGP Public Key
 
-Download [my PGP Pub Key](https://github.com/xuehy/xuehy.github.io/blob/master/xuehy-pubkey.key)
+Download [my PGP Pub Key](https://raw.githubusercontent.com/xuehy/xuehy.github.io/master/xuehy-pubkey.key)
 
 
   -----BEGIN PGP PUBLIC KEY BLOCK-----
