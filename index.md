@@ -56,4 +56,5 @@ JTz3EFGSoSGPuoTuf2SNQDoeSIOidTCGkLK+W8379+cbXVdSGIkIMJo=
 
 -----END PGP PUBLIC KEY BLOCK-----
 
+Download [my PGP ECC Pub Key](https://raw.githubusercontent.com/xuehy/xuehy.github.io/master/ECC.asc)
 
